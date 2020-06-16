@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="shelter.VirtualPetShelterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-06-16T19:49:09" hostname="DESKTOP-AV04OOP" time="0.491">
+  <properties/>
+  <testcase name="shouldSubtractPottyFromAllPetsWithTakeAllPetsOut" classname="shelter.VirtualPetShelterTest" time="0.294"/>
+  <testcase name="shouldSubtractTirednessFromAllPetsWithSleepAllPets" classname="shelter.VirtualPetShelterTest" time="0.0"/>
+  <testcase name="shouldSubtractBoredomFromSelectedPetWithPlayWithPet" classname="shelter.VirtualPetShelterTest" time="0.0"/>
+  <testcase name="shouldAddTickToAllStatsWithTickAllPets" classname="shelter.VirtualPetShelterTest" time="0.005"/>
+  <testcase name="shouldAddTwoVirtualPets" classname="shelter.VirtualPetShelterTest" time="0.124"/>
+  <testcase name="shouldRemovePet" classname="shelter.VirtualPetShelterTest" time="0.006"/>
+  <testcase name="shouldAddVirtualPet" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="shouldSubtractThirstFromAllPetsWaterToAllPets" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="shouldSubtractHangerFromAllPetsWithFeedPets" classname="shelter.VirtualPetShelterTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
